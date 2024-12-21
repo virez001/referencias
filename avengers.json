@@ -1,0 +1,25 @@
+{
+	"avengers": [
+		{
+			"namecode": "Hulk"
+		},
+		{
+			"namecode": "Captain America"
+		},
+		{
+			"namecode": "Black Panther"
+		},
+		{
+			"namecode": "Iron Man"
+		},
+		{
+			"namecode": "Thor"
+		},
+		{
+			"namecode": "Scarlet Witch"
+		},
+		{
+			"namecode": "Vision"
+		}
+	]
+}
